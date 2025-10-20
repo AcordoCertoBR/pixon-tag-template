@@ -2,7 +2,7 @@ homepage: https://github.com/AcordoCertoBR/pixon-tag-template
 documentation: https://github.com/AcordoCertoBR/pixon-tag-template/blob/main/README.md
 versions:
   # Latest version
-  - sha: e041dbd94ec462d9747738f502c9b500d49af761
+  - sha: cf9692df59a666133c633ef49909cdbc6978a62a
     changeNotes: "Update Pixon url"
   # Older versions
   - sha: e041dbd94ec462d9747738f502c9b500d49af761

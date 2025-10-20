@@ -1,5 +1,5 @@
 homepage: https://github.com/AcordoCertoBR/pixon-tag-template
 documentation: https://github.com/AcordoCertoBR/pixon-tag-template/blob/main/README.md
 versions:
-  - sha: 1e37eb545f8bc4a5b7901cda4fc476333bfabe8b
+  - sha: e041dbd94ec462d9747738f502c9b500d49af761
     changeNotes: "Versão inicial do Pixon CP Tag: Tracking Actions."

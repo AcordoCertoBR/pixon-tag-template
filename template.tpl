@@ -50,8 +50,7 @@ const injectScript = require('injectScript');
 const callInWindow = require('callInWindow');
 
 // 2. URL do script principal Pixon
-//const pixonUrl = 'https://pixon.iq.com.br/pixon/pixon.js';
-const pixonUrl = 'https://pixon.dev.iq.com.br/pixon/pixon.js';
+const pixonUrl = 'https://pixon.iq.com.br/pixon/pixon.js';
 
 // 3. Função de Tracking (que será executada após o Pixon carregar)
 const runConversionTracker = () => {    
